@@ -1,1 +1,1 @@
-worker: python ozuez.py
+worker: python osuez.py
